@@ -4,7 +4,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-const String gptApiUrl = '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';
+const String gptApiUrl = 'YOUR API KEY';
 
 void main() {
   runApp(QuizApp());
